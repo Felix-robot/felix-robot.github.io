@@ -1,0 +1,9 @@
+# Only reviewed, already-public site files belong in this repository.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!assets/
+assets/*
+!assets/felix-obsidian.jpg
+!assets/bodoni-moda-latin-500.woff2
